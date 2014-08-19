@@ -2,6 +2,7 @@ import ctypes
 
 def spitback():
 
+# Todo: check for OS
     prompt1 = input("What would you call this?\n")
     prompt2 = input("What would you like to be notified of?\n")
     prompt3 = input("Is it important? ")
